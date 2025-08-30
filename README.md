@@ -71,3 +71,9 @@ Autoencoders are incredibly versatile! Here are just a few reasons why they matt
 * **Generative AI**: Use Variational Autoencoders to generate brand new data that looks like your original dataset (e.g., generate new images, audio, etc.).
 * **Compression for Storage**: Reduce the size of image, audio, or video files without losing critical information, making it easier to store or transmit large datasets.
 
+## 📈 Visualizations
+
+Check out the Jupyter Notebooks for real-time visualizations of how each autoencoder model works. Visualize how the model learns, compresses, and reconstructs data in action!
+
+---
+
