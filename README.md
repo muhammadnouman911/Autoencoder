@@ -26,3 +26,13 @@ This repository contains Jupyter Notebooks for multiple autoencoder implementati
 * **Variational\_Autoencoder.ipynb**: Unlock the world of **Variational Autoencoders** and learn how they generate new data by capturing the latent space of your dataset.
 * **README.md**: You're currently reading this file – all the essentials to get you started!
 
+## 🔧 Requirements
+
+Before you start experimenting with these models, make sure you have the following:
+
+* **Python 3.x**
+* **TensorFlow** / **Keras** / **PyTorch**
+* **NumPy**
+* **Matplotlib**
+* **Jupyter Notebook**
+
