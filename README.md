@@ -77,3 +77,9 @@ Check out the Jupyter Notebooks for real-time visualizations of how each autoenc
 
 ---
 
+## 🎉 Contribute
+
+Want to add your own autoencoder variation or improve the code? **Feel free to contribute!** Open issues or create a pull request to make this repo even better.
+
+---
+
