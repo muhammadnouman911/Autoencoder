@@ -16,4 +16,13 @@ An **Autoencoder** is a type of neural network that learns to compress and recon
 * **Customization**: Experiment with different architectures (from basic to advanced) and fine-tune hyperparameters for optimal results.
 * **Visual Insights**: See real-time visualizations of how autoencoders learn to compress and reconstruct images!
 
+## 📂 Repository Overview
+
+This repository contains Jupyter Notebooks for multiple autoencoder implementations, ranging from simple architectures to complex models, designed to help you master this technology.
+
+* **Autoencoder\_CNN.ipynb**: Learn how **Convolutional Autoencoders** can handle complex image processing tasks, from noise reduction to compression.
+* **CIFAR\_10\_Autoencoder.ipynb**: Explore the CIFAR-10 dataset and discover how autoencoders compress and reconstruct images with ease.
+* **Encoder\_And\_Decoder.ipynb**: A basic yet powerful autoencoder showcasing the core principles of encoder-decoder architecture.
+* **Variational\_Autoencoder.ipynb**: Unlock the world of **Variational Autoencoders** and learn how they generate new data by capturing the latent space of your dataset.
+* **README.md**: You're currently reading this file – all the essentials to get you started!
 
